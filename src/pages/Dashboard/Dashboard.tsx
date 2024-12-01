@@ -97,7 +97,6 @@ const Dashboard: React.FC = () => {
       })
       .catch((err) => {
         console.error("Error:", err.response?.data || err.message);
-        alert("Error occurred while updating the contract!");
       });
   }
 
