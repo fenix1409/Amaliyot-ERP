@@ -51,7 +51,7 @@ export const SignIn = () => {
   return (
     <div className='flex'>
     <Toaster position="top-center" reverseOrder={false} />
-    <img className='w-[600px] h-[663px]' src={BG} alt="login bg" width={600} />
+    <img className='w-[600px] h-[728px]' src={BG} alt="login bg" width={600} />
     <div className='pt-[60px] pl-[80px]'>
       <Logo />
       <form onSubmit={loginSubmit} className='mt-[100px] w-[380px]' autoComplete='off'>
