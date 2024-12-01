@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "superadmin",
+      "password": "12345",
+      "role": "admin"
+    }
+  ],
+  "organizations": [
+    {
+      "id": 1,
+      "name": "Najot Ta'lim",
+      "course": "Programming"
+    },
+    {
+      "id": 2,
+      "name": "Graphic Academy",
+      "course": "Graphic Design"
+    },
+    {
+      "id": 3,
+      "name": "Marketing Guru",
+      "course": "Social Media Marketing"
+    }
+  ]
+}

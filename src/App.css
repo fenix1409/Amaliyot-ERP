@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-button{
+    background-color: #0EB182;
+}
+.ant-button:hover{
+    background-color: #0EB182 !important;
+}
+.ant-cancel:hover{
+    color: black !important;
+    border-color: #E3E3E3 !important;
+}
